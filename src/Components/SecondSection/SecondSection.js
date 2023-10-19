@@ -45,7 +45,7 @@ export default function SecondSection() {
         </div>
         <div className="second-first__second">
           <div class="video-background">
-            <video autoplay loop muted>
+            <video loop muted>
               <source src="https://carwow-uk-3.imgix.net/homepage/video/youtube.mp4" type="video/mp4" />
               Your browser does not support the video tag.
             </video>

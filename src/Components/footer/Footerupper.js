@@ -14,7 +14,6 @@ import carb4 from "../Assets/cars/listicon4.png";
 import carb5 from "../Assets/cars/listicon5.png";
 import carb6 from "../Assets/cars/listicon6.png";
 import carb7 from "../Assets/cars/listicon7.png";
-import carb8 from "../Assets/cars/listicon8.png";
 import carb9 from "../Assets/cars/listicon9.png";
 import carb10 from "../Assets/cars/listicon10.png";
 import carb11 from "../Assets/cars/listicon11.png";

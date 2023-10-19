@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */
 import React from "react";
 import telegraph from "../Assets/telegraph.png";
 import graph from "../Assets/graph.png";
@@ -200,6 +201,7 @@ export default function FooterBar() {
                   <li class="footer__list-item">
                     <a
                       target="_blank"
+                      rel="noreferrer"
                       data-detail-element-name="contact us"
                       data-interaction-type="footer"
                       href="https://www.carwow.co.uk/contact-us"
@@ -229,7 +231,7 @@ export default function FooterBar() {
                 <a
                   class="trustpilot__link"
                   target="_blank"
-                  rel="noopener"
+                  rel="noreferrer"
                   aria-label="Trustpilot"
                   href="https://uk.trustpilot.com/review/carwow.co.uk"
                 >
@@ -392,7 +394,7 @@ export default function FooterBar() {
           <p class="footer-fca">
             <a
               href="https://support.carwow.co.uk/s/article/How-do-we-calculate-the-average-savings-shown-on-carwow"
-              rel="noopener"
+              rel="noopener noreferrer"
               target="_blank"
             >
               {" "}
@@ -411,7 +413,7 @@ export default function FooterBar() {
             (please see&nbsp;
             <a
               href="https://www.financial-ombudsman.org.uk/"
-              rel="noopener"
+              rel="noopener noreferrer"
               target="_blank"
             >
               www.financial-ombudsman.org.uk

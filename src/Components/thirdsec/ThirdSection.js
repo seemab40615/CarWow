@@ -128,7 +128,7 @@ export default function ThirdSection() {
         ))}
       </Slider>
       <div id="footer" className="wrapper-bottom">
-        <div id="rating-long" className="tp-widget-rating tp-widget-rating-long text-center p">Rated <strong>4.6</strong> / 5 based on <a className="a" target="_blank" href="https://uk.trustpilot.com/review/carwow.co.uk?utm_medium=trustbox&utm_source=Slider">46,131 reviews</a>. <span>Show our 5 star reviews</span></div>
+        <div id="rating-long" className="tp-widget-rating tp-widget-rating-long text-center p">Rated <strong>4.6</strong> / 5 based on <a className="a" target="_blank" rel="noreferrer" href="https://uk.trustpilot.com/review/carwow.co.uk?utm_medium=trustbox&utm_source=Slider">46,131 reviews</a>. <span>Show our 5 star reviews</span></div>
         <p className="img text-center mt-2"> <img src={image} alt=""/></p>
       </div>
     </div>
